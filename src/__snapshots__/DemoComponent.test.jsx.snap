@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Snapshot and Functional Testing DemoComponent Snapshot 1`] = `
+<div
+  onClick={[Function]}
+>
+  Hello hai 
+  herry
+</div>
+`;
